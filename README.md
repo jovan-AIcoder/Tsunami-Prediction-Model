@@ -69,8 +69,8 @@ This script performs:
 
 1. Loading CSV
 2. Feature/label separation
-3. Train–test split (20% test)
-4. Data scaling using StandardScaler
+3. Data scaling using MinMaxScaler
+4. Model compiling
 5. Model training (150 epochs)
 6. Saving:
 
