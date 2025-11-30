@@ -48,7 +48,7 @@ The dataset `tsunami.csv` is downloaded from Kaggle
 The neural network uses:
 
 * **Swish activation** for all hidden layers
-* **HeNormal initialization**
+* **150 epochs**
 * **Adamax optimizer** (stable for wide-range gradients)
 * **Binary cross-entropy loss**
 
